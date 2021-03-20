@@ -2,7 +2,7 @@
 
 Dataset: DEAP http://www.eecs.qmul.ac.uk/mmv/datasets/deap/
 
-Code contains:
+LayerVisualization3D contains:
 1. Input reconstruction using CNN 3D Autoencoder.
 2. Visualizing training loss using tensorboard.
-3. Autoencoder out visualizations at every layer.
+3. Visualizing intermediate representations of Autoencoder at every layer.
